@@ -10,5 +10,4 @@ Star ⭐ | Fork 🔗 | Contribute 💻
 <hr>
 
 Contribution Guidelines
-<hr>
-Please read our Contribution Guidelines before you contribute to this project.
+Please read our [Contribution](https://github.com/RAshid602/Quick-Dictionary/blob/master/CONTRIBUTING.md) Guidelines before you contribute to this project.
