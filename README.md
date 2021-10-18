@@ -6,7 +6,7 @@ You may be a part of this repository by contributing questions or solutions or b
 
 Star ⭐ | Fork 🔗 | Contribute 💻
 
-Extension logo.
+
 <hr>
 
 Contribution Guidelines
